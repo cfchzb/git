@@ -1,13 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="607c9c8d-4489-40e9-a8fe-29963a6469cf" name="Default Changelist" comment="" />
+    <list default="true" id="607c9c8d-4489-40e9-a8fe-29963a6469cf" name="Default Changelist" comment="Commit Message">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1veWikwONWwY5rmX9oO4tyHr0M8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -15,6 +21,13 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunManager">
@@ -39,18 +52,38 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1626923163787</updated>
-      <workItem from="1626923167625" duration="90000" />
+      <workItem from="1626923167625" duration="1234000" />
     </task>
+    <task id="LOCAL-00001" summary="Commit Message">
+      <created>1626923358522</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1626923358522</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit Message" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit Message" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="460" y="121" key="FileChooserDialogImpl" timestamp="1626923237084">
+    <state x="460" y="121" key="FileChooserDialogImpl" timestamp="1626923438866">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state x="460" y="121" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1626923237084" />
+    <state x="460" y="121" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1626923438866" />
+    <state x="551" y="266" key="Github.ShareDialog" timestamp="1626923674724">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="551" y="266" key="Github.ShareDialog/0.0.1360.728@0.0.1360.728" timestamp="1626923674724" />
+    <state x="260" y="101" key="IDE.errors.dialog" timestamp="1626923542505">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="260" y="101" key="IDE.errors.dialog/0.0.1360.728@0.0.1360.728" timestamp="1626923542505" />
     <state x="183" y="10" key="SettingsEditor" timestamp="1626923257419">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
